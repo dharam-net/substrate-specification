@@ -14,82 +14,47 @@
       },
       "aura": {
         "authorities": [
-          "5FZT7uyHdDHJEm5EgdiXLQJQnJp8ijE3af722m8ZjzLyQBNP",
-          "5CkoAjNeQVDCFaSHtoVMMtMgxvvFg4EQk1QAJ8RZ9BwmV8A5",
-          "5FTx8RFqjFfLQVLr3tTUzvpMQuDBmRjFxvm9kPGnhd5YsgPV"
+          "5GnfRXtp45X48ehgSZcLf5ERwsjb8hGmUu4UePEEHTgsXhgv",
+          "5CAsQHuhdxkxDbXm6JTgJ8zCi5t9guvQHkn8imWougLBuhdn",
+          "5GZZtdsuVTorMCVTjx47gBvTmeSFLTrx19WfbkPUkqYv7u5k"
         ]
       },
       "grandpa": {
         "authorities": [
           [
-            "5CH2XW3jnsakfoKpWA93KNKuEdZSNRriBLAKqRay2wBP51UY",
+            "5CYUbfmX17QKtRiFaemDFqaRWPnMsh6NYT9waqbXxRB9iMx7",
             1
           ],
           [
-            "5EC1faRSDynPBUmvq2WWr2cP5pm5DtLaEemmC34kUi3X4efz",
+            "5D3EGnJyj7e8PAPGnquPt6w7RReqcqK1rnKkqsFmPGCkmthX",
             1
           ],
           [
-          "5CtY8romRN4EfuN3QF4YTybQ7ZQ2VZ77vbcMnCUTYZsGAp4h"
-        ]
+          "5Gmcqk7WJqFofvrU8TqT7eo4ifu1oPM4QmutKpqtMTfwNHbt"
+        ]]
       },
       "balances": {
         "balances": [
           [
-            "5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY",
+            "5GnfRXtp45X48ehgSZcLf5ERwsjb8hGmUu4UePEEHTgsXhgv",
             1152921504606846976
           ],
           [
-            "5FHneW46xGXgs5mUiveU4sbTyGBzmstUspZC92UhjJM694ty",
+            "5CAsQHuhdxkxDbXm6JTgJ8zCi5t9guvQHkn8imWougLBuhdn",
             1152921504606846976
           ],
           [
-            "5FLSigC9HGRKVhB9FiEo4Y3koPsNmBmLJbpXg2mp1hXcS59Y",
-            1152921504606846976
-          ],
-          [
-            "5DAAnrj7VHTznn2AWBemMuyBwZWs6FNFjdyVXUeYum3PTXFy",
-            1152921504606846976
-          ],
-          [
-            "5HGjWAeFDfFCWPsjFQdVV2Msvz2XtMktvgocEZcCj68kUMaw",
-            1152921504606846976
-          ],
-          [
-            "5CiPPseXPECbkjWCa6MnjNokrgYjMqmKndv2rSnekmSK2DjL",
-            1152921504606846976
-          ],
-          [
-            "5GNJqTPyNqANBkUVMN1LPPrxXnFouWXoe2wNSmmEoLctxiZY",
-            1152921504606846976
-          ],
-          [
-            "5HpG9w8EBLe5XCrbczpwq5TSXvedjrBGCwqxK1iQ7qUsSWFc",
-            1152921504606846976
-          ],
-          [
-            "5Ck5SLSHYac6WFt5UZRSsdJjwmpSZq85fd5TRNAdZQVzEAPT",
-            1152921504606846976
-          ],
-          [
-            "5HKPmK9GYtE1PSLsS1qiYU9xQ9Si1NcEhdeCq9sw5bqu4ns8",
-            1152921504606846976
-          ],
-          [
-            "5FCfAonRZgTFrTd9HREEyeJjDpT397KMzizE6T3DvebLFE7n",
-            1152921504606846976
-          ],
-          [
-            "5CRmqmsiNFExV6VbdmPJViVxrWmkaXXvBrSX8oqBT8R9vmWk",
+            "5GZZtdsuVTorMCVTjx47gBvTmeSFLTrx19WfbkPUkqYv7u5k",
             1152921504606846976
           ]
+        
         ]
       },
       "transactionPayment": {
         "multiplier": "1000000000000000000"
       },
       "sudo": {
-        "key": "5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY"
+        "key": "5GnfRXtp45X48ehgSZcLf5ERwsjb8hGmUu4UePEEHTgsXhgv"
       }
     }
   }
